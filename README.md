@@ -10,10 +10,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
 
-### Stock market analyst
-
-![stock Market](Images/stockmarket.jpg)
-
 ### First Step
 
 * Create a script that will loop through one year of stock data for each run and return the total volume each stock had over that year.
@@ -21,8 +17,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 * You will also need to display the ticker symbol to coincide with the total stock volume.
 
 * Your result should look as follows (note: all solution images are for 2015 data).
-
-![easy_solution](Images/easy_solution.png)
 
 # Second Step
 
@@ -40,13 +34,9 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * The result should look as follows.
 
-![moderate_solution](Images/moderate_solution.png)
-
 ### CHALLENGE
 
 * Make the appropriate adjustments to your script that will allow it to run on every worksheet, i.e., every year, just by running it once.
-
-* This can be applied to any of the difficulties.
 
 ### Other Considerations
 
