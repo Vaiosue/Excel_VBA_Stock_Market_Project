@@ -1,6 +1,3 @@
-# Excel_VBA_Stock_Market_Project
-Stock Market Project for VBA - Unit 2
-
 # Unit 2 | Assignment - The VBA of Wall Street
 
 ## Background
