@@ -2,7 +2,7 @@
 
 ## Background
 
-You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, choose your assignment from Easy, Moderate, or Hard below.
+You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data.
 
 ### Files
 
@@ -48,14 +48,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * To submit please upload the following to Github:
 
-  * A screen shot for each year of your results on the Multi Year Stock Data.
+* A screen shot for each year of your results on the Multi Year Stock Data.
 
-  * VBA Scripts as separate files.
+* VBA Scripts as separate files.
 
-* After everything has been saved, create a sharable link and submit that to <https://bootcampspot-v2.com/>.
-
-- - -
-
-### Copyright
-
-Coding Boot Camp © 2019. All Rights Reserved.
