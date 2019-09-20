@@ -24,8 +24,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
   * The ticker symbol.
 
-  * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
-
   * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
 
   * The total stock volume of the stock.
@@ -50,5 +48,4 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * A screen shot for each year of your results on the Multi Year Stock Data.
 
-* VBA Scripts as separate files.
 
